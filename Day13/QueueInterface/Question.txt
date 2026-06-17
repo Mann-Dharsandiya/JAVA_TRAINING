@@ -1,0 +1,38 @@
+Topic: PriorityQueue
+Scenario
+
+An airport receives landing requests from multiple aircraft.
+
+Every aircraft has a priority level:
+
+Priority 1 → Medical Emergency
+Priority 2 → Fuel Emergency
+Priority 3 → VIP Flight
+Priority 4 → Commercial Flight
+
+The runway should always be allocated to the aircraft having the highest priority (lowest priority number).
+
+Create an Aircraft class
+
+Attributes
+
+Flight Number
+Airline Name
+Priority
+Destination
+Add aircraft request
+Add multiple aircraft
+Allocate runway
+View next aircraft
+Display all waiting aircraft
+Display total aircraft
+Reset runway queue
+
+
+
+
+Edge Cases
+Duplicate flight numbers
+Invalid priority
+Allocating runway from empty queue
+Viewing empty queue

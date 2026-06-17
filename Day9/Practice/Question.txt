@@ -1,0 +1,40 @@
+Library Management
+
+class Book{
+ID
+Name
+Author Name
+Category
+Price
+Available copies
+
+}
+
+When we will create a new book
+
+1.Book Id -> auto generated
+2.Library -> books -> count 
+3.if(name ? nhi bataya -> Unknown Book)
+4.If author Exrtra spaces (Hint : trim)
+5.Price -> negative nhi ho skata
+6.Avalable copies -> negative nhi ho sakta
+
+
+Display()
+
+BorrowBook()
+
+returnBook()
+
+isAvailable()
+
+UpdatePrice()
+
+
+Books arr[] = {Book b1, Book b2, Book b3,new Book("value")}
+
+1.Find costliest Book
+2.cheapest book
+3.Count Books -> starts with java
+4.Count Books -> Pankaj -> return 
+5.Find Total Inventory
