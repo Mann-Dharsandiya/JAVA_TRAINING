@@ -1,0 +1,47 @@
+E-commerce -> Add to cart
+
+Flipkart
+
+Add items to the cart
+Remove Products
+Update product name
+Search for product
+Display all products
+Sort product (alphabaticaly)
+
+Duplicate products allowed 
+Customer can buy multiple quantities as well
+
+Class Product{
+    productId
+    ProductName;
+    price;
+    category;
+}
+
+
+List<Product> = new ArrayList<>();
+
+
+
+
+
+
+class Review{
+    id
+    Product Milk
+    String Comments
+} 
+
+
+Service layer
+
+TosearchAReviewByProduct
+
+ToUpdateACommentByItsId
+
+ToSortReviewListById
+
+
+
+

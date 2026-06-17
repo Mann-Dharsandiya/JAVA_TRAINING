@@ -1,0 +1,22 @@
+Parking system              
+
+toll                 Parking -> toll?
+
+bike park -> 20      sub BikeParking -> toll()
+
+Car park -> 50       sub CarParking -> toll()
+
+truck park -> 100    sub truckParking -> toll()
+
+
+
+Total vehicle =10 [car,bike,truck,truck,car,bike]
+
+Car Toll = ?
+Bike Toll = ?
+truck toll = ?
+
+Total toll = ?
+
+car ? bike ? truck
+

@@ -1,0 +1,26 @@
+Scenario
+
+You are developing a watchlist feature for an OTT platform like Netflix. Users can maintain a personal watchlist where they save movies and web series in the order they plan to watch them.
+
+They should be able to modify this watchlist anytime.
+
+Operations
+Add a movie
+Add multiple movies
+Remove a movie
+Replace an existing movie
+Display all movies
+Display movies in reverse order
+Sort movies alphabetically
+Display movies starting with a particular character
+Count movies containing a given keyword
+Display duplicate movie names
+Remove all duplicate movies while preserving order
+
+
+
+Edge Cases
+Empty watchlist
+Duplicate movie names
+Invalid replacement position
+Blank movie names

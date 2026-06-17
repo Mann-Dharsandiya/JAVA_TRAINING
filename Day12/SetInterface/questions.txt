@@ -1,0 +1,49 @@
+Scenario(Hashset)
+
+A company is organizing a technology conference where every participant has a unique pass ID. At the entrance gate, pass IDs are scanned before allowing entry.
+
+If the same pass ID is scanned again, it should be identified as a duplicate entry attempt.
+
+Develop a system to manage event entries.
+
+Operations
+Scan a new pass ID
+Scan multiple pass IDs
+Check whether a pass ID has already entered
+Remove a pass ID from the system
+Display all unique pass IDs
+Display the total number of unique entries
+Reset the entry system
+
+Edge Cases
+
+Duplicate pass IDs
+Invalid or blank pass IDs
+Removing a non-existing pass ID
+Empty system
+
+================================================================================
+
+
+Scenario(Treeset)
+
+A multinational company wants to maintain a salary leaderboard for its employees. Every salary should be stored only once, and the HR department wants the salaries to remain automatically sorted in ascending order.
+
+Develop a salary management system.
+
+Operations
+Add a salary
+Add multiple salaries
+Remove a salary
+Search for a salary
+Display all salaries in ascending order
+Display the highest salary
+Display the lowest salary
+Display the next higher salary than a given value
+Display the next lower salary than a given value
+
+Edge Cases
+Duplicate salaries
+Negative salary values
+Empty leaderboard
+Searching for a salary that does not exist

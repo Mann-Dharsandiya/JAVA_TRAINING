@@ -1,0 +1,12 @@
+Music playlist
+
+1.add a song begnin
+2.add a song at end
+3.remove the first song
+4.remove the last song
+5.display current playing song from your  list
+6.display the prev played song from your playlist
+6.1 Upcoming song from your list 
+7.search a song
+8.display playlist
+9.clear playlist 
